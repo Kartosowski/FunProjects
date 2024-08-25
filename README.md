@@ -1,5 +1,5 @@
 
-# 👽 Some weird or not weird projects!
+# 👽 My projects (small ones)
 
 ### Simple projects: 
 - [🎲 Dice](https://github.com/Kartosowski/FunProjects/tree/main/Simple%20Projects/Dice) 
